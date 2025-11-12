@@ -1,0 +1,22 @@
+# Environment variables
+.env.local
+.env
+
+# Dependencies
+node_modules/
+
+# Convex
+.convex/
+convex/_generated/
+
+# Build outputs
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
